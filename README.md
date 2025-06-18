@@ -73,34 +73,38 @@ Validation Split: [0.2]
 
 # Repository Structure
 .
-├── data/                       
-├── notebook/                   
-├── models_output/              
+
+├── data/     
+├── models_output/                    
+├── notebook/                               
 ├── README.md                   
 └── submission.csv              
 
 # Setup Instructions
 To get this project up and running on your local machine or in a Google Colab environment, follow these simple steps:
 
-Clone the Repository:
+1. Clone the Repository:
 
 git clone [(https://github.com/ValKalu/Beijing-Air-Quality-Forecasting)]
 cd [Beijing-Air-Quality-Forecasting]
 
 Replace [(https://github.com/ValKalu/Beijing-Air-Quality-Forecasting)] and [Beijing-Air-Quality-Forecasting] with your actual GitHub repository details.
 
-Download Data:
+2. Download Data:
+
 Obtain the train.csv, test.csv, and submission.csv files directly from the Kaggle competition page. Place these files into the data/ directory within your cloned repository.
 
-Install Dependencies:
+3. Install Dependencies:
+
 Ensure you have Python 3 installed. You can install the necessary Python libraries by running:
 
-"""
-!pip install pandas numpy matplotlib tensorflow scikit-learn"""
-s
-Run the Jupyter Notebook:
+
+!pip install pandas numpy matplotlib tensorflow scikit-learn
+
+
+4. Run the Jupyter Notebook:
 Navigate to the notebook/ directory (or wherever your main notebook is located) and open Air_Quality_Forecasting_in_Beijing_1.ipynb in a Jupyter environment (Jupyter Lab or Jupyter Notebook). Execute all cells sequentially. If running in Google Colab, ensure you mount your Google Drive to access the datasets as specified in the notebook.
 
 # Contributor
-[Valentine Kalu]
+# Valentine Kalu
 
