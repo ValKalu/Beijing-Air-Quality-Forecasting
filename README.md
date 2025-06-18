@@ -88,8 +88,6 @@ To get this project up and running on your local machine or in a Google Colab en
 git clone [(https://github.com/ValKalu/Beijing-Air-Quality-Forecasting)]
 cd [Beijing-Air-Quality-Forecasting]
 
-Replace [(https://github.com/ValKalu/Beijing-Air-Quality-Forecasting)] and [Beijing-Air-Quality-Forecasting] with your actual GitHub repository details.
-
 2. Download Data:
 
 Obtain the train.csv, test.csv, and submission.csv files directly from the Kaggle competition page. Place these files into the data/ directory within your cloned repository.
