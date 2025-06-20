@@ -102,6 +102,8 @@ Ensure you have Python 3 installed. You can install the necessary Python librari
 
 4. Run the Jupyter Notebook:
 Navigate to the notebook/ directory (or wherever your main notebook is located) and open Air_Quality_Forecasting_in_Beijing_1.ipynb in a Jupyter environment (Jupyter Lab or Jupyter Notebook). Execute all cells sequentially. If running in Google Colab, ensure you mount your Google Drive to access the datasets as specified in the notebook.
+# Report Link : 
+https://docs.google.com/document/d/1u4-4AkAB1KL6y12npoWkcZkzJ2NyIL7hJLLPxbB2c_8/edit?tab=t.0#heading=h.4hip7tv4zhth
 
 # Contributor
 # Valentine Kalu
