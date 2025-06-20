@@ -86,6 +86,7 @@ To get this project up and running on your local machine or in a Google Colab en
 1. Clone the Repository:
 
 git clone [(https://github.com/ValKalu/Beijing-Air-Quality-Forecasting)]
+
 cd [Beijing-Air-Quality-Forecasting]
 
 2. Download Data:
